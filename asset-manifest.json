@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/YutsandCarias/static/css/main.003dcc9f.chunk.css",
+    "main.js": "/YutsandCarias/static/js/main.d710ce44.chunk.js",
+    "main.js.map": "/YutsandCarias/static/js/main.d710ce44.chunk.js.map",
+    "runtime-main.js": "/YutsandCarias/static/js/runtime-main.647cee36.js",
+    "runtime-main.js.map": "/YutsandCarias/static/js/runtime-main.647cee36.js.map",
+    "static/css/2.65af8127.chunk.css": "/YutsandCarias/static/css/2.65af8127.chunk.css",
+    "static/js/2.ae22fe96.chunk.js": "/YutsandCarias/static/js/2.ae22fe96.chunk.js",
+    "static/js/2.ae22fe96.chunk.js.map": "/YutsandCarias/static/js/2.ae22fe96.chunk.js.map",
+    "index.html": "/YutsandCarias/index.html",
+    "static/css/2.65af8127.chunk.css.map": "/YutsandCarias/static/css/2.65af8127.chunk.css.map",
+    "static/css/main.003dcc9f.chunk.css.map": "/YutsandCarias/static/css/main.003dcc9f.chunk.css.map",
+    "static/js/2.ae22fe96.chunk.js.LICENSE.txt": "/YutsandCarias/static/js/2.ae22fe96.chunk.js.LICENSE.txt",
+    "static/media/GlobalEvent.css": "/YutsandCarias/static/media/EventsImg.16f985f7.png",
+    "static/media/AboutUs.css": "/YutsandCarias/static/media/Hero-img.1eb57f55.png",
+    "static/media/Logo.7b34cb67.jpg": "/YutsandCarias/static/media/Logo.7b34cb67.jpg",
+    "static/media/OurServices.css": "/YutsandCarias/static/media/ServicesBG.789cfa1f.jpg",
+    "static/media/WorkWithUs.css": "/YutsandCarias/static/media/WorkWithBG.351deda9.png",
+    "static/media/about1.1ef8dfe7.png": "/YutsandCarias/static/media/about1.1ef8dfe7.png",
+    "static/media/about2.3c6971de.png": "/YutsandCarias/static/media/about2.3c6971de.png",
+    "static/media/about3.30982fb0.png": "/YutsandCarias/static/media/about3.30982fb0.png",
+    "static/media/about4.05b9c98d.png": "/YutsandCarias/static/media/about4.05b9c98d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.647cee36.js",
+    "static/css/2.65af8127.chunk.css",
+    "static/js/2.ae22fe96.chunk.js",
+    "static/css/main.003dcc9f.chunk.css",
+    "static/js/main.d710ce44.chunk.js"
+  ]
+}
